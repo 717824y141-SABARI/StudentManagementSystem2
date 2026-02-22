@@ -1,1 +1,20 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build folders
+/bin/
 /build/
+/target/
+
+# Tomcat
+.metadata/
+wtpwebapps/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
